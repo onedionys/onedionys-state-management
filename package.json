@@ -26,8 +26,11 @@
   },
   "homepage": "https://github.com/onedionys/onedionys-state-management#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "chai": "^5.1.0",
-    "mocha": "^10.3.0"
+    "mocha": "^10.3.0",
+    "semantic-release": "^23.0.2"
   },
   "dependencies": {
     "jquery": "^3.7.1",
