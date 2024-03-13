@@ -1,6 +1,6 @@
 {
   "name": "onedionys-state-management",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (State Management) - An abstraction for managing and storing the state of applications, making it easier to manage the state of complex applications.",
   "main": "src/stateManagement.js",
   "directories": {
